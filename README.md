@@ -46,11 +46,3 @@ I'm always interested in discussing new projects, opportunities, and collaborati
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamara-weerasekara-a47845266/)
 
 </div>
-
----
-
-## 📈 Currently Learning
-
-- Devops 
-- Machine Learning
----
