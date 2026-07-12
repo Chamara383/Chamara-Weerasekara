@@ -38,14 +38,10 @@ I'm a software developer with expertise in **full-stack development**, specializ
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chamara383&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chamara383&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d)
-
-</div>
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chamara383&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamara383&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+</p>
 ## 💼 Let's Connect
 
 I'm always interested in discussing new projects, opportunities, and collaborations. Feel free to reach out!
